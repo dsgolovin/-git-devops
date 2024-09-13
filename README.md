@@ -11,3 +11,5 @@
 Файлы блокировки состояния .terraform.tfstate.lock.info
 
 Конфигурационные файлы CLI .terraformrc и terraform.rc будут проигнорированы.
+
+change file with IDE
